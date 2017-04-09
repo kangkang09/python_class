@@ -1,5 +1,2 @@
-a='I '
-b='love '
-c='you'
-d=a+b+c
-print d
+print 'hello Kangya'
+print 'I love programming'
